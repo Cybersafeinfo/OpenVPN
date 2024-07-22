@@ -28,7 +28,6 @@ Make the script executable and run it:
 
 ```sh
 chmod +x openvpn-ubuntu-install.sh
-sudo ./openvpn-ubuntu-install.sh
 ```
 
 #### Step 4: Follow the Script Prompts 🔍
